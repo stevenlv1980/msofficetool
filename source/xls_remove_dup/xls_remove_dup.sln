@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xls_remove_dup", "xls_remove_dup.vcproj", "{DB792CE4-F92B-4599-A43B-6BCD24401276}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		check_online = check_online
+		combine_sheets = combine_sheets
+		Debug = Debug
+		Release = Release
+		split_workbook = split_workbook
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DB792CE4-F92B-4599-A43B-6BCD24401276}.check_online.ActiveCfg = check_online|Win32
+		{DB792CE4-F92B-4599-A43B-6BCD24401276}.check_online.Build.0 = check_online|Win32
+		{DB792CE4-F92B-4599-A43B-6BCD24401276}.combine_sheets.ActiveCfg = combine_sheets|Win32
+		{DB792CE4-F92B-4599-A43B-6BCD24401276}.combine_sheets.Build.0 = combine_sheets|Win32
+		{DB792CE4-F92B-4599-A43B-6BCD24401276}.Debug.ActiveCfg = Debug|Win32
+		{DB792CE4-F92B-4599-A43B-6BCD24401276}.Debug.Build.0 = Debug|Win32
+		{DB792CE4-F92B-4599-A43B-6BCD24401276}.Release.ActiveCfg = Release|Win32
+		{DB792CE4-F92B-4599-A43B-6BCD24401276}.Release.Build.0 = Release|Win32
+		{DB792CE4-F92B-4599-A43B-6BCD24401276}.split_workbook.ActiveCfg = check_online|Win32
+		{DB792CE4-F92B-4599-A43B-6BCD24401276}.split_workbook.Build.0 = check_online|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
